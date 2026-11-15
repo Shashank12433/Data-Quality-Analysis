@@ -1,0 +1,6 @@
+record_id,signup_date,state,category
+1,2023-12-31,NY,Software
+2,,NY,Software
+3,,NY,Hardware
+4,,CA,Unknown
+7,,TX,Services

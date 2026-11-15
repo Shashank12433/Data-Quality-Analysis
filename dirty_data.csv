@@ -1,0 +1,8 @@
+record_id,signup_date,state,category
+1,12/31/2023,ny,Software
+2,2023-12-31,NY,software
+3,31-12-2023,New York,Hardware
+4,Jan 1st 2024,ca,
+4,Jan 1st 2024,ca,
+6,,TX,Services
+7,2024/01/05, texas ,Services

@@ -1,0 +1,7 @@
+DATA QUALITY SUMMARY REPORT
+===========================
+1. Missing Values: Found 4 records with missing Transaction IDs or Amounts.
+2. Duplicates: Found 1 duplicate Transaction IDs.
+3. Unusual Values: Found 2 transactions with negative or exceptionally high amounts.
+
+Action required: Investigate source system for ID generation failure and flag luxury car purchase for fraud review.

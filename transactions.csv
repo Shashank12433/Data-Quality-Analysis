@@ -1,0 +1,11 @@
+transaction_id,customer_id,date,amount,merchant
+T001,C10,2024-01-01,150.0,Amazon
+T002,C11,2024-01-02,20.5,Starbucks
+T003,C12,2024-01-03,,Walmart
+T003,C12,2024-01-03,,Walmart
+,C13,2024-01-04,400.0,Target
+T005,C14,2024-01-05,-50.0,Refund
+T006,C15,2024-01-06,1000000.0,Luxury Cars Inc
+T007,C16,2024-01-07,75.0,Uber
+T008,C17,2024-01-08,80.0,Lyft
+T009,C18,2024-01-09,,Amazon
